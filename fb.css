@@ -1,0 +1,202 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background: #044c94;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 50%;
+    padding-top: 45px;
+    float:left;
+
+}
+.login{
+    width: 50%;
+    float:left;
+    padding-top: 20px;
+}
+.logo-text{
+    color: #fff;
+    font-size: 39px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 253px;
+}
+.login-label{
+    color: #fff;
+}
+.login-controls{
+    margin-left: 185px;
+}
+.sub-btn{
+    background: #160d9b;
+    color: #fff;
+    border: none;
+    font-size: 12px;
+    cursor: pointer;
+
+}
+.for-got{
+
+    color: rgba(255, 255, 255, 0.658);
+}
+.sub-btn:hover{
+    background: #0b0563;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 254px;
+    padding-top: 42px;
+}
+.right-section{
+    width: 342px;
+   float: left;
+    margin-left: -97px;
+}
+.main-body{
+    background: #eaecec;
+    width: 100%;
+    height: 565px;
+}
+.image{
+    width: 580px;
+}
+.para{
+    font-weight: bold;
+    font-size: 23px;
+    color: #254c94;
+}
+.body-header{
+    font-weight: bold;
+    font-size: 37px;
+}
+.body-para{
+    font-weight: bold;
+    font-size: 22px;
+    margin-top: -31px;
+}
+input[type=text] {
+    height: 25px;
+    width: 199px;
+    border-radius: 4px;
+    font-size: 14px;
+    border-color: snow;
+
+}
+input[type=text1]{
+    width: 123px;
+    height: 25px;
+    border-radius: 4px;
+    border-color: snow;
+    font-size: 14px;
+}
+input[type=text2]{
+    margin-top: 13px;
+    width: 335px;
+    height: 25px;
+    border-radius: 4px;
+    border-color: snow;
+    font-size: 14px;
+}
+input[type=text3]{
+    margin-top: 12px;
+    width: 334px;
+    height: 25px;
+    font-size: 14px;
+    border-radius: 4px;
+    border-color: snow;
+}
+.birth-text{
+    color: #00000094;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.days{
+    height: 24px;
+    width: 53px;
+    font-size: 13px;
+    border-radius: 4px;
+    border-color: #aba8a8;
+}
+.months{
+    height: 26px;
+    width: 60px;
+    font-size: 13px;
+    border-radius: 4px;
+    border-color: #aba8a8;
+}
+.years{
+    height: 24px;
+    width: 53px;
+    font-size: 13px;
+    border-radius: 4px;
+    border-color: #aba8a8;
+}
+.gend{
+    color: #00000094;
+    font-weight: bold;
+}
+.mal{
+    font-weight: bold;
+}
+.femal{
+    font-weight: bold;
+}
+.cust{
+    font-weight: bold;
+}
+.blue-para{
+   
+   color:#254c94; 
+}
+.blue-para2{
+    color:#254c94; 
+}
+.para1{
+    font-size: 13px;
+    font-weight: bold;
+    color: #00000094;
+}
+.but{
+    color: #fff;
+    height: 32px;
+    width: 114px;
+    background: #1f8a09;
+    border: black;
+    border-radius: 4px;
+    font-weight: blod;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+}
+.creat{
+    color:#254c94; 
+    font-weight: bold;
+   
+}
+.creat1{
+    color: #00000094;
+    font-weight: bold;
+    
+}
+.second-para{
+    margin-top: 9px;
+
+}
+.footer1{
+    color:#254c94; 
+    margin-left: 390px;
+    margin-top: 60px;
+    font-weight: bold;
+    font-size: 12px;
+
+}
+.facebook{
+    color: #00000094;
+    margin-left: 389px;
+    font-weight: bold;
+    font-size: 11px;
+}
